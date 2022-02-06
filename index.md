@@ -178,7 +178,7 @@ address.
 </p>
 {% endif %}
 
-<p><strong> Date:</strong>  May 25, 27 or June 1</p>
+<p><strong> Date:</strong>  February 14 </p>
 
 {% comment %}
 SPECIAL REQUIREMENTS
