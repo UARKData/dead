@@ -107,7 +107,7 @@ displayed if the 'eventbrite' field in the header is not set.
   scrolling="auto">
 </iframe>
 {% endif %}
-{% endcomment %}
+
 
 <h2 id="general">General Information</h2>
 
